@@ -1,5 +1,5 @@
 # NN_framework_python
-This is a Neural Network Framework inspired by the book "NNFS" from Sentdex.
+This is a Neural Network Framework inspired by the book "NNFS" from Sentdex. The only Libary used is numpy.
 
 
 
