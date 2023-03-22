@@ -1,2 +1,27 @@
 # NN_framework_python
 This is a Neural Network Framework inspired by the book "NNFS" from Sentdex.
+
+
+
+## Optimization Algorithms
+- Backpropagation...
+- Learning Rate Decay
+- SGD + LR-Decay
+- SGD + LR-Decay + Momentum
+- AdaGrad
+- RMSProp
+- AdaM
+
+## Regularization
+It contains L1 and L2 which can be customized per Layer
+
+## Activation Functions
+- ReLU
+- Softmax
+
+## Layer Types
+- Fully Dense Forward Layer
+
+## Loss Functions
+- Mean Square Loss
+- Categorical Cross Entropy
