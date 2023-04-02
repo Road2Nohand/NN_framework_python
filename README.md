@@ -5,7 +5,7 @@ This is a Neural Network Framework inspired by the book "NNFS" from Sentdex. The
 
 ## Optimization Algorithms
 - Backpropagation...
-- Learning Rate Decay
+- Exponential Learning Rate Decay
 - SGD + LR-Decay
 - SGD + LR-Decay + Momentum
 - AdaGrad
