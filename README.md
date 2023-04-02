@@ -16,8 +16,8 @@ This is a Neural Network Framework inspired by the book "NNFS" from Sentdex. The
 It contains L1 and L2 which can be customized per Layer
 
 ## Activation Functions
-- ReLU
-- Softmax
+- $ReLU(a)$
+- $Softmax(a)$
 
 ## Layer Types
 - Fully Dense Forward Layer
